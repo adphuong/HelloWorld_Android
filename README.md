@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
@@ -33,11 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't run into too many challenges. The only hiccup I ran into was getting an error with gradle when I tried to run the app after implementing the onclick function for the button. I was able to resolve this after about 30 minutes by googling and researching the error. I ended up having to update the 
+compileSdk and targetSdk version to 33 and the minSdk to 26.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 April Phuong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
