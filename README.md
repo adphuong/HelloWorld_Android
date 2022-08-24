@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I didn't run into too many challenges. The only hiccup I ran into was getting an error with gradle when I tried to run the app after implementing the onclick function for the button. I was able to resolve this after about 30 minutes by googling and researching the error. I ended up having to update the 
+I didn't run into too many challenges. The only hiccup I ran into was getting an error with gradle, when I tried to run the app after implementing the onclick function for the button. I was able to resolve this by googling and researching the error. I ended up having to update the 
 compileSdk and targetSdk version to 33 and the minSdk to 26.
 
 ## License
